@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #dadbdf
+}
+h1 {
+    margin: 12rem 10rem;
+}
+.bookmark {
+    width: 10%;
+    float: right;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: -16rem 18rem;
+    padding: 1rem;
+    cursor: pointer;
+}
+.searchBar {
+    margin: -10rem 19rem;
+    width: 50%;
+    border: 1px solid black;
+}
+input[type=text]{
+   width: 100%;
+    padding: 1rem;
+}
+button {
+    float: right;
+    margin: -10rem 14rem;
+    width: 8%;
+    background-color: black;
+    color: white;
+    padding: 1rem;
+}
